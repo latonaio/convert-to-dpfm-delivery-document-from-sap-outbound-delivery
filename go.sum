@@ -1,0 +1,10 @@
+github.com/google/uuid v1.3.0 h1:t6JiXgmwXMjEs8VusXIJk2BXHsn+wx8BZdTaoZ5fu7I=
+github.com/google/uuid v1.3.0/go.mod h1:TIyPZe4MgqvfeYDBFedMoGGpEw/LqOeaOT+nhxU+yHo=
+github.com/latonaio/golang-logging-library-for-data-platform v1.0.2 h1:JeW084SwEzWCMroVNoxi6QfDiy5H6IxKFs7qMONcq+4=
+github.com/latonaio/golang-logging-library-for-data-platform v1.0.2/go.mod h1:cvfCKdvlnYT3ENBEICtk5SH2y3BESB+oDg+FJbZYW2o=
+github.com/latonaio/rabbitmq-golang-client-for-data-platform v1.0.3 h1:HwXsp331RGdghJghvgdNnM7jDz1tUHyY0v2dawwypTU=
+github.com/latonaio/rabbitmq-golang-client-for-data-platform v1.0.3/go.mod h1:ctn3XnL+GVLS6+I1XyEdoA/w5gmNwinjvYCuAB+FqLw=
+github.com/streadway/amqp v1.0.0 h1:kuuDrUJFZL1QYL9hUNuCxNObNzB0bV/ZG5jV3RWAQgo=
+github.com/streadway/amqp v1.0.0/go.mod h1:AZpEONHx3DKn8O/DFsRAY58/XVQiIPMTMB1SddzLXVw=
+golang.org/x/xerrors v0.0.0-20220517211312-f3a8303e98df h1:5Pf6pFKu98ODmgnpvkJ3kFUOQGGLIzLIkbzUHp47618=
+golang.org/x/xerrors v0.0.0-20220517211312-f3a8303e98df/go.mod h1:K8+ghG5WaK9qNqU5K3HdILfMLy1f3aNYFI/wnl100a8=
